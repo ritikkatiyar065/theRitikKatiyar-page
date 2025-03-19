@@ -185,9 +185,7 @@ img {
   row-gap: 5rem;
   padding: 4rem 0 5rem;
 }
-.home__data {
-  align-self: center;
-}
+
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
@@ -352,6 +350,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
+  margin: 2px;
   background-color: var(--second-color);
   color: #fff;
   text-align: center;
