@@ -491,3 +491,8 @@ img {
     width: 450px;
   }
 }
+
+/* Instagram icon color fix */
+.bxl-instagram {
+    color: var(--first-color);
+}
